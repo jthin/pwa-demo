@@ -2,6 +2,10 @@
 
 This project is a PWA demo with no JavaScript Framework to keep it simple. It simply displays news from GNews.io API.
 
+[Live demo](https://blue-mushroom-01e03f003.azurestaticapps.net/)
+
+<img src="docs/images/screenshot.png" width="550">
+
 ## Quick start
 
 ### Live Server
